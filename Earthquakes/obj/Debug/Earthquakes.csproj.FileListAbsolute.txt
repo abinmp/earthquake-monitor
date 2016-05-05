@@ -1,0 +1,17 @@
+C:\Users\Abin\Desktop\Earthquakes\Earthquakes\bin\Debug\Earthquakes.exe.config
+C:\Users\Abin\Desktop\Earthquakes\Earthquakes\bin\Debug\Earthquakes.exe
+C:\Users\Abin\Desktop\Earthquakes\Earthquakes\bin\Debug\Earthquakes.pdb
+C:\Users\Abin\Desktop\Earthquakes\Earthquakes\bin\Debug\KdTreeLib.dll
+C:\Users\Abin\Desktop\Earthquakes\Earthquakes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Abin\Desktop\Earthquakes\Earthquakes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Abin\Desktop\Earthquakes\Earthquakes\obj\Debug\Earthquakes.csprojResolveAssemblyReference.cache
+C:\Users\Abin\Desktop\Earthquakes\Earthquakes\obj\Debug\MainWindow.g.cs
+C:\Users\Abin\Desktop\Earthquakes\Earthquakes\obj\Debug\App.g.cs
+C:\Users\Abin\Desktop\Earthquakes\Earthquakes\obj\Debug\Earthquakes_MarkupCompile.cache
+C:\Users\Abin\Desktop\Earthquakes\Earthquakes\obj\Debug\Earthquakes_MarkupCompile.lref
+C:\Users\Abin\Desktop\Earthquakes\Earthquakes\obj\Debug\MainWindow.baml
+C:\Users\Abin\Desktop\Earthquakes\Earthquakes\obj\Debug\Earthquakes.g.resources
+C:\Users\Abin\Desktop\Earthquakes\Earthquakes\obj\Debug\Earthquakes.Properties.Resources.resources
+C:\Users\Abin\Desktop\Earthquakes\Earthquakes\obj\Debug\Earthquakes.csproj.GenerateResource.Cache
+C:\Users\Abin\Desktop\Earthquakes\Earthquakes\obj\Debug\Earthquakes.exe
+C:\Users\Abin\Desktop\Earthquakes\Earthquakes\obj\Debug\Earthquakes.pdb
